@@ -61,6 +61,7 @@ experiences:
         - Created monitors to identify differences between baseline and target datasets to identify data drift for early warnings of potential issues. This proactive measure led to reduced customer complaints and increased customer satisfaction
         - Designed and implemented ML pipeline using AWS S3, Lambda, Sagemaker, API Gateway.
         - Designed and implemented Data pipeline using AWS S3, Lambda, EC2, RDS, Amazon MQ.
+        - Deputed to client location (UK) for 6 months to design and develop the Optimizer Engine.
 
     - role: Software Developer
       time: Mar 2016 to Nov 2017
@@ -71,7 +72,7 @@ experiences:
         - Formulated High Level / Detailed Coding Approach.
         - Synchronized with the SDEs to finalize the Coding Approach.
         - Worked on Unit Test Plans and Unit Test Cases.
-        - Played a stellar role in Introducing major enhancements to the System, by working in close coordination with the client in London, UK.
+
     - role: Software Developer
       time: Jul 2015 to Mar 2016
       company: Inlogic, Chennai
