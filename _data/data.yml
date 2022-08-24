@@ -52,26 +52,26 @@ experiences:
       time: Nov 2017 to Feb 2022
       company: Cognizant, Chennai
       details: |
-        - Built and integrated a high accuracy machine learning model to predict the risk of advertisement booking cancellations by customers. Reduced cancellation rate by more than 45%
-        - Built NLP models to analyze the sentiment of the customer on the targeted ads. Improved the relevance of targeted ads by 80%
-        - Created interactive Tableau dashboards to analyze the performance of advertisement campaigns which helps the sales teams to access the current performance of the campaigns
-        - Designed and implemented Constrained Optimization ML algorithm for KPI tuning
-        - Created ML models to predict the default pass for Best Result Selector
+        - Built and integrated a high accuracy machine learning model to predict the risk of advertisement booking cancellations by customers. Reduced cancellation rate by more than 45%.
+        - Built NLP models to analyze the sentiment of the customer on the targeted ads. Improved the relevance of targeted ads by 80%.
+        - Created interactive Tableau dashboards to analyze the performance of advertisement campaigns which helps the sales teams to access the current performance of the campaigns.
+        - Designed and implemented Constrained Optimization ML algorithm for KPI tuning.
+        - Created ML models to predict the default pass for Best Result Selector.
         - Designed and Implemented data pipeline to extract relevant data from 40+ SQL tables using .NET parallel architecture and Amazon MQ.
         - Created monitors to identify differences between baseline and target datasets to identify data drift for early warnings of potential issues. This proactive measure led to reduced customer complaints and increased customer satisfaction
         - Designed and implemented ML pipeline using AWS S3, Lambda, Sagemaker, API Gateway.
         - Designed and implemented Data pipeline using AWS S3, Lambda, EC2, RDS, Amazon MQ.
 
     - role: Software Developer
-      time: Mar 2016 to Feb 2022
+      time: Mar 2016 to Nov 2017
       company: Cognizant, Chennai
       details: |
-        - Undertook complete design, development, testing, enhancement and maintenance of a large tv telecasting application for a UK client, using C#.Net, Delphi, SQL, C++, and UNIX
-        - Design and Develop Business Intelligence Dashboard & Reports using Tableau
-        - Formulated High Level / Detailed Coding Approach
-        - Synchronized with the SDEs to finalize the Coding Approach
-        - Worked on Unit Test Plans and Unit Test Cases
-        - Played a stellar role in Introducing major enhancements to the System, by working in close coordination with the client in London, UK
+        - Undertook complete design, development, testing, enhancement and maintenance of a large tv telecasting application for a UK client, using C#.Net, Delphi, SQL, C++, and UNIX.
+        - Design and Develop Business Intelligence Dashboard & Reports using Tableau.
+        - Formulated High Level / Detailed Coding Approach.
+        - Synchronized with the SDEs to finalize the Coding Approach.
+        - Worked on Unit Test Plans and Unit Test Cases.
+        - Played a stellar role in Introducing major enhancements to the System, by working in close coordination with the client in London, UK.
     - role: Software Developer
       time: Jul 2015 to Mar 2016
       company: Inlogic, Chennai
@@ -91,6 +91,13 @@ experiences:
       details: |
         - Undertook complete design, development, testing, enhancement and maintenance of structural engineering design and detailing applications.
         - Developed mathematical model using vectors and auto generated more than 5000 engineering drawings to construct Garden By The Bay - one of the architectural icons of Singapore.
+    - role: Trainee
+      time: Oct 2005 to May 2006
+      company: SRF Ltd, Chennai
+      details: |
+        - Involved in plant and machinaries construction project.
+        - Planning, Sheduling with MS Project.
+        - Project execution based on EFD, PFD drawings and routing of air, steam and water pipe lines.
 
 skills:
     title: Skills &amp; Proficiency
