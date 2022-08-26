@@ -61,7 +61,7 @@ experiences:
         - Created monitors to identify differences between baseline and target datasets to identify data drift for early warnings of potential issues. This proactive measure led to reduced customer complaints and increased customer satisfaction
         - Designed and implemented ML pipeline using AWS S3, Lambda, Sagemaker, API Gateway.
         - Designed and implemented Data pipeline using AWS S3, Lambda, EC2, RDS, Amazon MQ.
-        - Worked in client location (UK) for 6 months for integrating Optimizer Engine to the existing system.
+        - Worked in client location (UK) for 6 months to integrate Optimizer Engine to the existing system.
 
     - role: Software Developer
       time: Mar 2016 to Nov 2017
