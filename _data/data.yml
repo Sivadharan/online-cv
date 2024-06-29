@@ -59,7 +59,7 @@ experiences:
         - I significantly reduced technical debt accumulated over five years in the ML landscape and cut the Global ACE AWS Project account’s monthly billing by 50%.
         - By utilizing AWS Spot Instances and SageMaker Remote functions, I effectively reduced costs and seamlessly integrated local development with AWS SageMaker.
         - I reduced the training time for the Demand Sensing ML Model from three days to just 15 minutes by running 100 parallel jobs using AWS Batch. My parallelization techniques included multi-threading, multi-core vCPUs, asynchronous I/O operations, parallel orchestration with AWS Step Functions, and deploying multiple Docker instances via AWS Batch.
-        - My expertise in time series forecasting encompasses ARIMA family models, Prophet, VAR, DeepAR, and Transformer-based models.
+        - My expertise in time series forecasting encompasses ARIMA family models, Prophet, VAR, DeepAR, SKTime and Transformer-based models.
 
     - role: Machine Learning Engineer
       time: Nov 2017 to Feb 2022
