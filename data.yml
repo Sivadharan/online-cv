@@ -123,23 +123,17 @@ skills:
       - name: Python
         level: 95%
 
-      - name: .NET
+      - name: AWS
         level: 95%
 
-      - name: C++
+      - name: Microsoft Power Automate
         level: 90%
 
       - name: SQL
         level: 95%
 
       - name: AWS Sage Maker 
-        level: 90%
-
-      - name: Tableau
-        level: 90%
-
-      - name: Excel VBA
         level: 95%
 
-      - name: Delphi
+      - name: Excel VBA
         level: 95%
