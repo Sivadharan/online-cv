@@ -48,6 +48,19 @@ education:
       details: |
 
 experiences:
+    - role: Sr. ML Engineer | Data Scientist
+      time: Oct 2022 to till date.
+      company: HCLTECH, Chennai
+      details: |
+        - Currently working in the Supply Chain domain for a Netherlands-based Health, Nutrition & Care company. As the technical owner of the Demand Sensing Project and Automated CDI (Current Days of Inventory), and owner of NGI (Next Generation Insights), I am responsible for enhancing forecast accuracy, maintaining optimal inventory levels, and providing actionable insights to over 200+ business users and stakeholders for strategic decision-making.
+        - I lead a team of two Data Scientists, overseeing their work and ensuring project goals are met.
+        - I serve as an internal consultant for three different Data Science teams, offering expertise in automation, AWS service selection, and data integration strategies to create cost-effective, scalable, high-performance solutions tailored to our use cases.
+        - Through rigorous experimentation, I consistently improved forecast accuracy by 2%, resulting in measurable annual cost savings of 100 million Euros, with secondary savings extending beyond this amount.
+        - I significantly reduced technical debt accumulated over five years in the ML landscape and cut the Global ACE AWS Project account’s monthly billing by 50%.
+        - By utilizing AWS Spot Instances and SageMaker Remote functions, I effectively reduced costs and seamlessly integrated local development with AWS SageMaker.
+        - I reduced the training time for the Demand Sensing ML Model from three days to just 15 minutes by running 100 parallel jobs using AWS Batch. My parallelization techniques included multi-threading, multi-core vCPUs, asynchronous I/O operations, parallel orchestration with AWS Step Functions, and deploying multiple Docker instances via AWS Batch.
+        - My expertise in time series forecasting encompasses ARIMA family models, Prophet, VAR, DeepAR, and Transformer-based models.
+
     - role: Machine Learning Engineer
       time: Nov 2017 to Feb 2022
       company: Cognizant, Chennai
