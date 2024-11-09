@@ -3,266 +3,135 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False
+    education: True
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sivadharan Kuppusamy
+    tagline: Machine Learning Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: sivadharan.k@gmail.com
+    phone: +91 9677081950
+    timezone: India Standard Time (IST)
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    linkedin: sivadharan-data-science
+    github: sivadharan
+    # pdf: http://...pdf
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+      - idiom: English
+        level: Professional
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+      - idiom: Tamil
+        level: Native
 
     interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      - item: Reading
+        link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+      - item: Yoga
+        link:
 
 career-profile:
-    title: Career Profile
+    title: Machine Learning Engineer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        - Innovative Data Science and AI Expert with 6+ years of experience in AI & ML landscape, with a total of 17+ years in programming, software engineering, and project management.
+        - Proven track record of leveraging data to deliver actionable insights, enhance business performance, and drive innovation across various projects.
+        - Engineered and launched advanced machine learning models, formulated sophisticated predictive algorithms, and successfully led key AI projects.
+        - Designed cost-effective, high-performance ML systems in AWS, seamlessly integrating organizational data to optimize performance and reduce costs.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - degree: BE - Mechanical Engineering
+      university: Anna University
+      time: 2001 - 2005
+      details: |
 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - role: Sr. ML Engineer | Data Scientist
+      time: Oct 2022 to till date.
+      company: HCLTECH, Chennai
+      details: |
+        - Currently working in the Supply Chain domain for a Netherlands-based Health, Nutrition & Care company. As the technical owner of the Demand Sensing Project for a Business Unit and Automated CDI (Current Days of Inventory), and owner of NGI (Next Generation Insights), I am responsible for maintaining benchmark forecast accuracy, maintaining optimal inventory levels, and providing actionable insights to over 200+ business users and stakeholders for strategic decision-making.
+        - I do internal consulting, offering expertise in automation, AWS service selection, and data integration strategies to create cost-effective, scalable, high-performance solutions tailored to our use cases.
+        - I significantly reduced technical debt accumulated over five years in the ML landscape and cut the Global SCE AWS Project account’s monthly billing by 50%.
+        - By utilizing AWS Spot Instances and SageMaker Remote functions, I effectively reduced costs and seamlessly integrated local development with AWS SageMaker.
+        - I reduced the training time for the Demand Sensing ML Model from three days to just 15 minutes by running 100 parallel jobs using AWS Batch. My parallelization techniques included multi-threading, multi-core vCPUs, asynchronous I/O operations, parallel orchestration with AWS Step Functions, and deploying multiple Docker instances via AWS Batch.
+        - My expertise in time series forecasting encompasses ARIMA family models, Prophet, VAR, DeepAR, SKTime and Transformer-based models.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+    - role: Machine Learning Engineer
+      time: Nov 2017 to Feb 2022
+      company: Cognizant, Chennai
+      details: |
+        - Built and integrated a high accuracy machine learning model to predict the risk of advertisement booking cancellations by customers. Reduced cancellation rate by more than 45%.
+        - Built NLP models to analyze the sentiment of the customer on the targeted ads. Improved the relevance of targeted ads by 80%.
+        - Created interactive Tableau dashboards to analyze the performance of advertisement campaigns which helps the sales teams to access the current performance of the campaigns.
+        - Designed and implemented Constrained Optimization ML algorithm for KPI tuning.
+        - Created ML models to predict the default pass for Best Result Selector.
+        - Designed and Implemented data pipeline to extract relevant data from 40+ SQL tables using .NET parallel architecture and Amazon MQ.
+        - Created monitors to identify differences between baseline and target datasets to identify data drift for early warnings of potential issues. This proactive measure led to reduced customer complaints and increased customer satisfaction
+        - Designed and implemented ML pipeline using AWS S3, Lambda, Sagemaker, API Gateway.
+        - Designed and implemented Data pipeline using AWS S3, Lambda, EC2, RDS, Amazon MQ.
+        - Worked in client location (UK) for 6 months to integrate Optimizer Engine to the existing system.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+    - role: Software Developer
+      time: Mar 2016 to Nov 2017
+      company: Cognizant, Chennai
+      details: |
+        - Undertook complete design, development, testing, enhancement and maintenance of a large tv telecasting application for a UK client, using C#.Net, Delphi, SQL, C++, and UNIX.
+        - Design and Develop Business Intelligence Dashboard & Reports using Tableau, Excel VBA.
+        - Preparing High Level / Detailed Coding Approach, Unit Test Plans and Unit Test Cases.
+        - Code review, maintaining project metrics and documentation
+        - Coordinating with QA/BA/Client team. Mentoring junior members in the team.
+        - As a TL / Scrum Master, ensuring agile values and making sure smooth delivery of project.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: Software Developer
+      time: Jul 2015 to Mar 2016
+      company: Inlogic, Chennai
+      details: |
+        - Undertook complete design, development, testing, enhancement and maintenance of Practice management system for hospitals/ healthcare professionals.
+        - Design and development of touch screen UI.
+        - Contributed to 64 bit application migration.
+    - role: Software Developer
+      time: Aug 2011 to Jul 2015
+      company: Cognizant, Chennai
+      details: |
+        - Design, development, testing, enhancement and maintenance of rights and scheduling management system for broadcasting industry.
+        - Contributed for windows component level development.
+    - role: Software Developer
+      time: May 2006 to Aug 2011
+      company: Geodesic Techniques Pvt Ltd, Bangalore
+      details: |
+        - Developed mathematical model to mimic the output of Delmia’s UltraArc robot programming and simulation software and created an application based on that.
+        - Designed and developed application to convert AutoCAD data into Fanuc robot readable file output. It boosted the productivity by 10x.
+        - Undertook complete design, development, testing, enhancement and maintenance of structural engineering design and detailing applications.
+        - Developed mathematical model using vectors and auto generated more than 5000 engineering drawings to construct Garden By The Bay - one of the architectural icons of Singapore.
+    - role: Trainee
+      time: Oct 2005 to May 2006
+      company: SRF Ltd, Chennai
+      details: |
+        - Involved in plant and machinaries construction project.
+        - Planning, Sheduling with MS Project.
+        - Project execution based on EFD, PFD drawings and routing of air, steam and water pipe lines.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: AWS
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Microsoft Power Automate
+        level: 90%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: SQL
+        level: 95%
+
+      - name: AWS Sage Maker 
+        level: 95%
+
+      - name: Excel VBA
+        level: 95%
