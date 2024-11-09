@@ -42,12 +42,16 @@ career-profile:
         - Engineered and launched advanced machine learning models, formulated sophisticated predictive algorithms, and successfully led key AI projects.
         - Designed cost-effective, high-performance ML systems in AWS, seamlessly integrating organizational data to optimize performance and reduce costs.
 education:
+    title: Education
+    info:
     - degree: BE - Mechanical Engineering
       university: Anna University
       time: 2001 - 2005
       details: |
 
 experiences:
+    title: Experiences
+    info:
     - role: Sr. ML Engineer | Data Scientist
       time: Oct 2022 to till date.
       company: HCLTECH, Chennai
